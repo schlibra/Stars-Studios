@@ -1,1 +1,1 @@
-![网站建设中](https://schlibra.github.io/Stars-Studios/building)
+![网站建设中](https://schlibra.github.io/Stars-Studios/building/building.jpg)
