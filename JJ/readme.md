@@ -1,11 +1,11 @@
 起源之战
 ===
 [回首页](https://schlibra.github.io/Stars-Studios)
-<br>[下载最新版](https://schlibra.github.io/Stars-Studios/JJ/version/JJ1.8.4.5.apk)
+<br>[下载最新版](https://uzer.me/uz-fileviewer/api/file/download?path=%2FJJ1.8.4.5.apk&access_token=3a252572-44d4-44e9-97b5-f4b4d4dc91b2)
 更新说明：<br>
 <br>1.8.4.5
 <br>-
 <br>-
 <br>-
 <br>
-<br>[查看历史版本](https://schlibra.github.io/JJ/version)
+<br>[查看历史版本](https://schlibra.github.io/building)
