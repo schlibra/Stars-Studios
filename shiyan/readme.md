@@ -1,1 +1,4 @@
-<body text="color" link="color" alink="color" vlink="color">
+<ol type="?" start"?">
+<li>文字</li>
+<li>文字</li>
+</ol>
