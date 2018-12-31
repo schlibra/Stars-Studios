@@ -1,7 +1,6 @@
 [回首页](https://schlibra.github.io/Stars-Studios)
 <br> 计算器 [下载最新版](https://schlibra.github.io/Stars-Studios/jsq/version/jsq2.3.apk)
 <br> 更新说明：
-
 <br>2.3 [下载](https://schlibra.github.io//Stars-Studios/jsq/version/jsq2.3.apk)
 <br>-加入小数点功能
 <br>-加入显示运算符以及第二个数的功能
