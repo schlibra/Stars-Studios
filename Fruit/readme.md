@@ -1,6 +1,6 @@
 Fruit水果配对 更新说明
 ＝＝＝＝
-[回首页](schlibra.github.io/Stars-Studios)
+<br>[回首页](schlibra.github.io/Stars-Studios)
 4.8 
 -修复一些bug
 -加入搜索用户，查看用户分数功能
