@@ -1,3 +1,6 @@
+计算器
+===
+[查看历史版本](https://schlibra.github.io/Stars-Studios/jsq/version)
 [回首页](https://schlibra.github.io/Stars-Studios)
 <br> 计算器 [下载最新版](https://schlibra.github.io/Stars-Studios/jsq/version/jsq2.3.apk)
 <br> 更新说明：<br>
