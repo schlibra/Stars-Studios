@@ -1,1 +1,1 @@
-<button>[开始游戏](about:blank)</button>
+<button>[开始游戏](https://schlibra.github.io/Stars-Studios/game/zwdzjs/index.html)</button>
