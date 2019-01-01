@@ -1,1 +1,1 @@
-[开始游戏](https://schlibra.github.io/Stars-Studios/game/zwdzjs/html/index.html)
+[开始游戏](https://schlibra.github.io/Stars-Studios/game/zwdzjs/index/index.html)
