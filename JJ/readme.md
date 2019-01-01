@@ -4,7 +4,7 @@
 <br>[下载最新版](https://uzer.me/uz-fileviewer/api/file/download?path=%2FJJ1.8.4.5.apk&access_token=3a252572-44d4-44e9-97b5-f4b4d4dc91b2)
 更新说明：<br>
 <br>1.8.4.5
-<br>-优化节目
+<br>-优化界面
 <br>-修复bug
 <br>
 <br>[查看历史版本](https://schlibra.github.io/Stars-Studios/building)
