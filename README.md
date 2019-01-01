@@ -7,5 +7,5 @@
 ><br>[**计算器**](https://schlibra.github.io/Stars-Studios/jsq)<br>
 ><br>[**起源之战（星海战争）**](https://schlibra.github.io/Stars-Studios/JJ)<br>
 ><br>html小程序<br>
-><br>[**植物大战僵尸**](https://schlibra.github.io/Stars-Studios/game/zwdzjs)<br>
+><br>[**植物大战僵尸**](https://schlibra.github.io/Stars-Studios/building)<br>
  
