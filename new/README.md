@@ -3,7 +3,7 @@
 ## [加入工作室官方群](about:blank)
 
 ## 工作室应用
-[应用1](about:blank)by[作者](about:blank)
+[**Fruit水果配对**](https://schlibra.github.io/Stars-Studios/Fruit)by[schlibra](about:blank)
 
 [应用2](about:blank)by[作者](about:blank)
 
