@@ -13,5 +13,5 @@
 
 ## 友情链接
 
-[起源之战工作室](http://suo.im/5jD5s0)
+[起源之战工作室](http://qyzz.lyk.ooo)
 
