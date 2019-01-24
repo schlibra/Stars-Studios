@@ -4,5 +4,4 @@
 
 - [加入工作室官方群](https://jq.qq.com/?_wv=1027&k=5me3cRl)
 - `友情链接:`[起源之战工作室官网](https://www.qyzz.ml)
-- <a href="tencent://message/?uin=3032441511&Site=http://vps.shuidazhe.com&Menu=yes">PC版</a>   
-- <a href="mqqwpa://im/chat?chat_type=wpa&uin=3032441511&version=1&src_type=web&web_src=oicqzone.com">移动版</a>
+- </span><a href="http://wpa.qq.com/msgrd?v=3&uin=3032441511&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:2643767924:51" alt="联系作者" title="联系作者"/">.</a></p>
