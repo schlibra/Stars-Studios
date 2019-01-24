@@ -4,4 +4,4 @@
 
 - [加入工作室官方群](https://jq.qq.com/?_wv=1027&k=5me3cRl)
 - `友情链接:`[起源之战工作室官网](https://www.qyzz.ml)
-- <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=3032441511&site=qq&menu=yes"><img border="0" src="http://pub.idqqimg.com/qconn/wpa/button/button_111.gif" alt="联系客服" title="联系客服"/></a>
+- <a target="_blank" href="http://suo.im/4L2ge9"><img border="0" src="http://pub.idqqimg.com/qconn/wpa/button/button_111.gif" alt="联系客服" title="联系客服"/></a>
