@@ -4,5 +4,5 @@
 
 
 点击下方按钮进入虚拟机 
- ===
- <button href="https://demo.glyptodon.com">进入虚拟机</button>
+
+ <button href="https://demo.glyptodon.com">[进入虚拟机](https://demo.glyptodon.com)</button>
