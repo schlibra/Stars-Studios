@@ -17,7 +17,7 @@
 3. 你的任务就是关闭所有电灯来省电
 
 #### 程序截图
-![image](https://www.xcgzs.ml/totl/s1.jpeg)
+![image](http://xuehaifile.oss-cn-hangzhou.aliyuncs.com/SB103007/29f471769c32428a9f28001b9e3a0946.jpeg)
 ### 我们的网站：
 ##### [星辰工作室](https://www.xcgzs.ml)
 ##### [Stars-Studios](https://www.xcgzs.ml)
