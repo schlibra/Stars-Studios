@@ -15,8 +15,10 @@
 1. 在生活中有些朋友会在你需要的时候帮助你，而有些朋友则会给你添乱
 2. 在你将要关掉一盏电灯时，周围四盏电灯的状态将被改变。
 3. 你的任务就是关闭所有电灯来省电
+
 #### 程序截图
 ![image](https://www.xcgzs.ml/totl/s1.jpeg)
-### [星辰工作室](https://www.xcgzs.ml)
-### [Stars-Studios](https://www.xcgzs.ml)
+### 我们的网站：
+##### [星辰工作室](https://www.xcgzs.ml)
+##### [Stars-Studios](https://www.xcgzs.ml)
 
