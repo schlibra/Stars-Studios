@@ -1,5 +1,4 @@
-# **程序方案**
-## 关闭所有灯
+# **关闭所有灯**
 
 ### apk下载地址：
 #### [直接下载](https://www.xcgzs.ml/totl/base.apk)|[网盘下载](http://www.lanzou.com/i4ruhra)
