@@ -1,7 +1,7 @@
 # **关闭所有灯**
 
 ### apk下载地址：
-#### [直接下载](https://www.xcgzs.ml/totl/base.apk)|[网盘下载](http://www.lanzou.com/i4ruhra)
+#### [直接下载](https://www.xcgzs.ml/totl/base.apk)|[网盘下载](http://www.lanzou.com/i4rzj3i)
 
 #### 玩法说明
 1. 点击圆块，这个圆块和周围四个圆块的颜色将会改变。
@@ -14,7 +14,7 @@
 3. 你的任务就是关闭所有电灯来省电
 
 #### 程序截图
-![image](http://xhfs5.oss-cn-hangzhou.aliyuncs.com/SB103007/df89dcf0aeaf4717b22d709aa1d31b58.png)
+![程序截图](http://xhfs5.oss-cn-hangzhou.aliyuncs.com/SB103007/df89dcf0aeaf4717b22d709aa1d31b58.png)
 ### 我们的网站：
 ##### [星辰工作室](https://www.xcgzs.ml)
 ##### [Stars-Studios](https://www.xcgzs.ml)
