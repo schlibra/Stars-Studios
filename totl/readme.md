@@ -1,7 +1,7 @@
 # **关闭所有灯**
 
 ### apk下载地址：
-#### [直接下载](https://www.xcgzs.ml/totl/base.apk)|[网盘下载](https://www.lanzou.com/i4s2m9a)
+#### [直接下载](https://www.xcgzs.ml/totl/base.apk)|[网盘下载](https://www.lanzous.com/i4s2m9a)
 
 #### 玩法说明
 1. 点击圆块，这个圆块和周围四个圆块的颜色将会改变。
