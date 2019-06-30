@@ -2,7 +2,7 @@
 
 ### apk下载地址：
 #### [直接下载](https://www.xcgzs.ml/totl/base.apk)|[网盘下载](https://www.lanzous.com/tp/i4s2m9a)
-
+###### [求解程序](https://www.lanzous.com/tp/i4s58vg)
 #### 玩法说明
 1. 点击圆块，这个圆块和周围四个圆块的颜色将会改变。
 2. 在所有颜色都为黑色时则通过此关卡。
